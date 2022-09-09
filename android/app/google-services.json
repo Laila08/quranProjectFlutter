@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051207476439",
+    "project_id": "quran-app-f8e6a",
+    "storage_bucket": "quran-app-f8e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051207476439:android:42a840ec2505f76c567c92",
+        "android_client_info": {
+          "package_name": "com.example.quranproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051207476439-a07kpafigu0pectadqkudbkh8047ut1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYhFz4crsLNjJgYp-_aKxCApUklbMiTbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051207476439-a07kpafigu0pectadqkudbkh8047ut1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
